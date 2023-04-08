@@ -14,7 +14,7 @@ Our implementation has several advantages over official codes:
 
 |                         | WSADE | ADEv  | ADEp  | ADEb  |
 |-------------------------|-------|-------|-------|-------|
-| Our implementation      | 1.133 | 1.705 | 0.696 | 1.762 |
+| Our implementation      | **1.133** | 1.705 | **0.696** | **1.762** |
 | official implementation | 1.176 | 1.652 | 0.764 | 1.829 |
 
 
